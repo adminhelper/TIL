@@ -9,4 +9,5 @@
     * [3. HTTP Server](group-1/2/1/3.-http-server.md)
     * [4. Java HTTP Server](group-1/2/1/4.-java-http-server.md)
     * [5. Spring Web MVC](group-1/2/1/5.-spring-web-mvc.md)
-  * [2주차](repository/note/2week.md)
+  * [2주차](repository/note/2week/README.md)
+    * [2. URI & MIME type](repository/note/2week/2.-uri-and-mime-type.md)
