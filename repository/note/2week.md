@@ -1,3 +1,9 @@
 # 2주차
 
-&#x20;Comming Soon :)
+Multitier architecture&#x20;
+
+REST와 SOAP 비교&#x20;
+
+GraphQL Apache&#x20;
+
+Tomcat
