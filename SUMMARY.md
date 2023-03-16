@@ -13,5 +13,4 @@
     * [1. REST API](repository/note/2week/1.-rest-api.md)
     * [2. URI & MIME type](repository/note/2week/2.-uri-and-mime-type.md)
     * [3. Collection Pattern](repository/note/2week/3.-collection-pattern.md)
-    * [4. Collection pattern 적용](repository/note/2week/4.-collection-pattern.md)
-    * [5. Spring Web MVC로 구현](repository/note/2week/5.-spring-web-mvc.md)
+    * [4. Spring Web MVC](repository/note/2week/4.-spring-web-mvc.md)
