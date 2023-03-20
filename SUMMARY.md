@@ -14,3 +14,7 @@
     * [2. URI & MIME type](repository/note/2week/2.-uri-and-mime-type.md)
     * [3. Collection Pattern](repository/note/2week/3.-collection-pattern.md)
     * [4. Spring Web MVC](repository/note/2week/4.-spring-web-mvc.md)
+  * [3주차](repository/note/3/README.md)
+    * [1. DTO](repository/note/3/1.-dto.md)
+    * [2. JSON](repository/note/3/2.-json.md)
+    * [3. CORS](repository/note/3/3.-cors.md)
