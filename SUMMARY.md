@@ -17,5 +17,6 @@
   * [3주차](repository/note/3/README.md)
     * [1. DTO(Data Transfer Object)](repository/note/3/1.-dto-data-transfer-object.md)
     * [2. 직렬화(Serialization)](repository/note/3/2.-serialization.md)
-    * [3. Jackson ObjectMapper](repository/note/3/3.-jackson-objectmapper.md)
-    * [4. CORS](repository/note/3/4.-cors.md)
+    * [3. JSON](repository/note/3/3.-json.md)
+    * [4. Jackson ObjectMapper](repository/note/3/4.-jackson-objectmapper.md)
+    * [5. CORS](repository/note/3/5.-cors.md)
