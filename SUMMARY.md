@@ -27,3 +27,6 @@
     * [Layered Architecture](repository/note/4/layered-architecture.md)
     * [Domain-Driven Design (DDD)](repository/note/4/domain-driven-design-ddd.md)
   * [5주차](repository/note/5.md)
+  * [6주차](repository/note/6/README.md)
+    * [Page 2](repository/note/6/page-2.md)
+    * [Page 1](repository/note/6/page-1.md)
