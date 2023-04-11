@@ -31,3 +31,5 @@
     * [DB (Database)](repository/note/6/db-database.md)
     * [DBMS (Database Management System)](repository/note/6/dbms-database-management-system.md)
     * [SQL(Structured Query Language)](repository/note/6/sql-structured-query-language.md)
+    * [데이터 모델(Data Model)](repository/note/6/data-model.md)
+    * [JDBC(Java Database Connectivity)](repository/note/6/jdbc-java-database-connectivity.md)
