@@ -28,5 +28,6 @@
     * [Domain-Driven Design (DDD)](repository/note/4/domain-driven-design-ddd.md)
   * [5주차](repository/note/5.md)
   * [6주차](repository/note/6/README.md)
-    * [Database](repository/note/6/database.md)
-    * [Page 1](repository/note/6/page-1.md)
+    * [DB (Database)](repository/note/6/db-database.md)
+    * [DBMS (Database Management System)](repository/note/6/dbms-database-management-system.md)
+    * [SQL(Structured Query Language)](repository/note/6/sql-structured-query-language.md)
