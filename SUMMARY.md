@@ -33,3 +33,8 @@
     * [SQL(Structured Query Language)](repository/note/6/sql-structured-query-language.md)
     * [데이터 모델(Data Model)](repository/note/6/data-model.md)
     * [JDBC(Java Database Connectivity)](repository/note/6/jdbc-java-database-connectivity.md)
+    * [JdbcTemplate](repository/note/6/jdbctemplate.md)
+  * [7주차](repository/note/7/README.md)
+    * [ORM(Object-Relational Mapping)](repository/note/7/orm-object-relational-mapping.md)
+    * [Jakarta EE(Java Enterprise Edition)](repository/note/7/jakarta-ee-java-enterprise-edition.md)
+    * [JPA(Jakarta Persistence API)](repository/note/7/jpa-jakarta-persistence-api.md)
