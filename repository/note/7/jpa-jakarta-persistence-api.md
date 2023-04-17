@@ -8,6 +8,16 @@ JPA(Jakarta Persistence API)는 객체 관계 매핑(ORM)을 위한 자바 표�
 
 JPA는 2006년에 최초로 출시되었습니다. JPA는 Java Community Process(JCP)에서 자바 표준 기술로 승인되어, Java EE(Java Enterprise Edition)에서 표준 ORM 기술로 채택되었습니다. 이후 JPA는 Jakarta EE(Java Enterprise Edition)로 이관되면서 이름이 Jakarta Persistence API로 변경되었습니다.
 
+
+
+**짧게 짚고넘어가자**\
+**Jakarta EE(Java Enterprise Edition)**
+
+Jakarta EE(Java Enterprise Edition)는 자바 기반의 엔터프라이즈 애플리케이션 개발을 위한 플랫폼입니다. \
+이전에는 Java EE(Java Enterprise Edition)로 불렸으며, 2018년 이후 Eclipse Foundation에서 관리되고 있습니다. \
+Jakarta EE는 JCP(Java Community Process)에서 자바 기반 엔터프라이즈 애플리케이션 개발을 위한 표준 기술을 제공하며, 서버 사이드 애플리케이션 개발을 위한 많은 API(Application Programming Interface)와 스팩(Specification)을 포함하고 있습니다. \
+Jakarta EE는 대규모 애플리케이션을 개발하기 위한 기능을 제공하며, 서블릿, EJB(Enterprise JavaBeans), JPA(Jakarta Persistence API) 등 다양한 기술을 포함하고 있습니다. Jakarta EE는 다양한 서버에서 구동할 수 있는 애플리케이션 서버 플랫폼을 제공하고 있으며, 여러 가지 라이브러리와 프레임워크를 지원하여 개발 생산성을 높일 수 있습니다.
+
 ### 장점
 
 * JPA를 사용하면 SQL 쿼리 작성 및 JDBC 코드 작성 등과 같은 반복적이고 지루한 작업을 줄일 수 있습니다.
