@@ -38,3 +38,4 @@
     * [ORM(Object-Relational Mapping)](repository/note/7/orm-object-relational-mapping.md)
     * [Jakarta EE(Java Enterprise Edition)](repository/note/7/jakarta-ee-java-enterprise-edition.md)
     * [JPA(Jakarta Persistence API)](repository/note/7/jpa-jakarta-persistence-api.md)
+    * [Hibernate](repository/note/7/hibernate.md)
