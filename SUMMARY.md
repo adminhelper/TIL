@@ -38,3 +38,4 @@
     * [ORM(Object-Relational Mapping)](repository/note/7/orm-object-relational-mapping.md)
     * [JPA(Jakarta Persistence API)](repository/note/7/jpa-jakarta-persistence-api.md)
     * [Hibernate](repository/note/7/hibernate.md)
+    * [Embedable](repository/note/7/embedable.md)
