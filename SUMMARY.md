@@ -44,3 +44,4 @@
       * [DDD Aggregate](repository/note/7/relationshop-mapping/ddd-aggregate.md)
       * [CascadeType.ALL](repository/note/7/relationshop-mapping/cascadetype.all.md)
       * [orphanRemoval](repository/note/7/relationshop-mapping/orphanremoval.md)
+      * [Event Sourcing](repository/note/7/relationshop-mapping/event-sourcing.md)
