@@ -39,3 +39,6 @@
     * [JPA(Jakarta Persistence API)](repository/note/7/jpa-jakarta-persistence-api.md)
     * [Hibernate](repository/note/7/hibernate.md)
     * [Embedable](repository/note/7/embedable.md)
+    * [RelationShop Mapping](repository/note/7/relationshop-mapping/README.md)
+      * [N + 1 문제](repository/note/7/relationshop-mapping/n-+-1.md)
+      * [DDD Aggregate](repository/note/7/relationshop-mapping/ddd-aggregate.md)
