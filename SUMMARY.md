@@ -42,3 +42,5 @@
     * [RelationShop Mapping](repository/note/7/relationshop-mapping/README.md)
       * [N + 1 문제](repository/note/7/relationshop-mapping/n-+-1.md)
       * [DDD Aggregate](repository/note/7/relationshop-mapping/ddd-aggregate.md)
+      * [CascadeType.ALL](repository/note/7/relationshop-mapping/cascadetype.all.md)
+      * [orphanRemoval](repository/note/7/relationshop-mapping/orphanremoval.md)
