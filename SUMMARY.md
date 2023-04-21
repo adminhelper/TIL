@@ -45,3 +45,4 @@
       * [CascadeType.ALL](repository/note/7/relationshop-mapping/cascadetype.all.md)
       * [orphanRemoval](repository/note/7/relationshop-mapping/orphanremoval.md)
       * [Event Sourcing](repository/note/7/relationshop-mapping/event-sourcing.md)
+      * [@OneToMany와 @JoinColumn](repository/note/7/relationshop-mapping/onetomany-joincolumn.md)
