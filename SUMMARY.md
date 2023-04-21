@@ -46,3 +46,6 @@
       * [orphanRemoval](repository/note/7/relationshop-mapping/orphanremoval.md)
       * [Event Sourcing](repository/note/7/relationshop-mapping/event-sourcing.md)
       * [@OneToMany와 @JoinColumn](repository/note/7/relationshop-mapping/onetomany-joincolumn.md)
+    * [Spring Data JPA](repository/note/7/spring-data-jpa/README.md)
+      * [JPA Repository와 DDD의 Repository](repository/note/7/spring-data-jpa/jpa-repository-ddd-repository.md)
+      * [Spring AOP](repository/note/7/spring-data-jpa/spring-aop.md)
