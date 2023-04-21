@@ -34,7 +34,8 @@ JPA Entity는 객체 지향 프로그래밍에서 사용되는 클래스를 말�
 JPA Entity의 가장 큰 장점은 객체 지향적인 코드 작성이 가능하다는 것입니다. JPA Entity를 이용하면 데이터베이스의 데이터를 객체로 다룰 수 있으며, 객체 지향 프로그래밍의 장점을 최대한 활용할 수 있습니다. 또한, JPA Entity는 데이터베이스와의 매핑을 어노테이션 기반으로 수행하므로, SQL 쿼리 작성 등과 같은 반복적인 작업을 줄일 수 있습니다. 또한, JPA Entity는 데이터베이스와의 상호작용이 추상화되므로, 데이터베이스 변경에 대한 영향을 최소화할 수 있습니다.
 
 ```java
-@Entity @Table(name = "person") 
+@Entity 
+@Table(name = "person") 
 public class Person {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
