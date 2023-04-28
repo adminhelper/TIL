@@ -49,3 +49,7 @@
     * [Spring Data JPA](repository/note/7/spring-data-jpa/README.md)
       * [JPA Repository와 DDD의 Repository](repository/note/7/spring-data-jpa/jpa-repository-ddd-repository.md)
       * [Spring AOP](repository/note/7/spring-data-jpa/spring-aop.md)
+  * [8주차](repository/note/8/README.md)
+    * [Domain-Driven Design (DDD)](repository/note/8/domain-driven-design-ddd/README.md)
+      * [Strategic Design](repository/note/8/domain-driven-design-ddd/strategic-design.md)
+      * [Tactical Design](repository/note/8/domain-driven-design-ddd/tactical-design.md)
