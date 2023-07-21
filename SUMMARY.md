@@ -24,6 +24,27 @@
   * [4. Jackson ObjectMapper](dto-and-json-and-cors/dto-and-json-and-cors/4.-jackson-objectmapper.md)
   * [5. CORS](dto-and-json-and-cors/dto-and-json-and-cors/5.-cors.md)
 
+## 📔 DataBase
+
+* [DataBase](database/database/README.md)
+  * [DB (Database)](database/database/db-database.md)
+  * [DBMS (Database Management System)](database/database/dbms-database-management-system.md)
+  * [SQL(Structured Query Language)](database/database/sql-structured-query-language.md)
+  * [데이터 모델(Data Model)](database/database/data-model.md)
+  * [JDBC(Java Database Connectivity)](database/database/jdbc-java-database-connectivity.md)
+  * [JdbcTemplate](database/database/jdbctemplate.md)
+
+## 📔 Spring
+
+* [Page 1](spring/page-1.md)
+* [Spring Web MVC](spring/5.-spring-web-mvc.md)
+* [4주차](spring/4.md)
+* [Separation of Concerns](spring/separation-of-concerns.md)
+* [객체지향 (OOP)](spring/oop.md)
+* [객체지향의 5가지 원칙(SOILD)](spring/5-soild.md)
+* [Layered Architecture](spring/layered-architecture.md)
+* [5주차](spring/5.md)
+
 ## 📔 JPA
 
 * [jpa](jpa/jpa/README.md)
@@ -42,36 +63,9 @@
     * [JPA Repository와 DDD의 Repository](jpa/jpa/spring-data-jpa/jpa-repository-ddd-repository.md)
     * [Spring AOP](jpa/jpa/spring-data-jpa/spring-aop.md)
 
-## 📔 Spring
-
-* [Spring Web MVC](spring/5.-spring-web-mvc.md)
-* [4주차](spring/4.md)
-* [Separation of Concerns](spring/separation-of-concerns.md)
-* [객체지향 (OOP)](spring/oop.md)
-* [객체지향의 5가지 원칙(SOILD)](spring/5-soild.md)
-* [Layered Architecture](spring/layered-architecture.md)
-* [Domain-Driven Design (DDD)](spring/domain-driven-design-ddd.md)
-* [5주차](spring/5.md)
-
-## 📔 DataBase
-
-* [\[데브로드 2기 백엔드\] 생존개발](database/note/README.md)
-  * [6주차](database/note/6/README.md)
-    * [DB (Database)](database/note/6/db-database.md)
-    * [DBMS (Database Management System)](database/note/6/dbms-database-management-system.md)
-    * [SQL(Structured Query Language)](database/note/6/sql-structured-query-language.md)
-    * [데이터 모델(Data Model)](database/note/6/data-model.md)
-    * [JDBC(Java Database Connectivity)](database/note/6/jdbc-java-database-connectivity.md)
-    * [JdbcTemplate](database/note/6/jdbctemplate.md)
-  * [8주차](database/note/8/README.md)
-    * [Domain-Driven Design (DDD)](database/note/8/domain-driven-design-ddd/README.md)
-      * [Strategic Design](database/note/8/domain-driven-design-ddd/strategic-design.md)
-      * [Tactical Design](database/note/8/domain-driven-design-ddd/tactical-design.md)
-
 ## 📔 DDD(Domain Driven Design) <a href="#ddd" id="ddd"></a>
 
 * [DDD](ddd/ddd/README.md)
-  * [8주차](ddd/ddd/8/README.md)
-    * [Domain-Driven Design (DDD)](ddd/ddd/8/domain-driven-design-ddd/README.md)
-      * [Strategic Design](ddd/ddd/8/domain-driven-design-ddd/strategic-design.md)
-      * [Tactical Design](ddd/ddd/8/domain-driven-design-ddd/tactical-design.md)
+  * [Domain-Driven Design (DDD)](ddd/ddd/domain-driven-design-ddd.md)
+  * [Strategic Design](ddd/ddd/strategic-design.md)
+  * [Tactical Design](ddd/ddd/tactical-design.md)
