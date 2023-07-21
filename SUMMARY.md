@@ -62,7 +62,6 @@
 
 ## 📔 DDD(Domain Driven Design) <a href="#ddd" id="ddd"></a>
 
-* [DDD](ddd/ddd/README.md)
-  * [Domain-Driven Design (DDD)](ddd/ddd/domain-driven-design-ddd.md)
-  * [Strategic Design](ddd/ddd/strategic-design.md)
-  * [Tactical Design](ddd/ddd/tactical-design.md)
+* [Domain-Driven Design (DDD)](ddd/domain-driven-design-ddd.md)
+* [Strategic Design](ddd/strategic-design.md)
+* [Tactical Design](ddd/tactical-design.md)

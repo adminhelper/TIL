@@ -1,7 +1,2 @@
-# 3주차
+# DTO & JSON & CORS
 
-DTO
-
-JSON
-
-CORS
