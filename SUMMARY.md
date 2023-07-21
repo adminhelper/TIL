@@ -11,16 +11,17 @@
 ## 📔 Spring
 
 * [Spring Web MVC](spring/5.-spring-web-mvc.md)
-* [4. Spring Web MVC](spring/4.-spring-web-mvc.md)
+
+## 📔 REST API
+
+* [REST API](rest-api/rest-api/README.md)
+  * [1. REST API](rest-api/rest-api/1.-rest-api.md)
+  * [2. URI & MIME type](rest-api/rest-api/2.-uri-and-mime-type.md)
+  * [3. Collection Pattern](rest-api/rest-api/3.-collection-pattern.md)
 
 ## 📔 DataBase
 
-* [Spring Web MVC](database/5.-spring-web-mvc.md)
 * [\[데브로드 2기 백엔드\] 생존개발](database/note/README.md)
-  * [2주차](database/note/2week/README.md)
-    * [1. REST API](database/note/2week/1.-rest-api.md)
-    * [2. URI & MIME type](database/note/2week/2.-uri-and-mime-type.md)
-    * [3. Collection Pattern](database/note/2week/3.-collection-pattern.md)
   * [3주차](database/note/3/README.md)
     * [1. DTO(Data Transfer Object)](database/note/3/1.-dto-data-transfer-object.md)
     * [2. 직렬화(Serialization)](database/note/3/2.-serialization.md)
