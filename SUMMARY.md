@@ -36,14 +36,11 @@
 
 ## 📔 Spring
 
-* [Page 1](spring/page-1.md)
 * [Spring Web MVC](spring/5.-spring-web-mvc.md)
-* [4주차](spring/4.md)
 * [Separation of Concerns](spring/separation-of-concerns.md)
 * [객체지향 (OOP)](spring/oop.md)
 * [객체지향의 5가지 원칙(SOILD)](spring/5-soild.md)
 * [Layered Architecture](spring/layered-architecture.md)
-* [5주차](spring/5.md)
 
 ## 📔 JPA
 
